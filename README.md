@@ -1,3 +1,2 @@
-# jhjkjbkjblj
-njknjk
-covid vacc
+# COVID-19 mRNA Vaccine Degradation Prediction
+
