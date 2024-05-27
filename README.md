@@ -33,6 +33,7 @@ Training Scheme:
 Denoising Autoencoder Training: Utilize all available data, including both training and test datasets, to train a denoising autoencoder model. The primary purpose of this step is to learn a robust representation of the data and reduce the noise inherent in real-world datasets.
 
 Finetuning: Using the weights from the denoising autoencoder model, finetune the model to predict specific targets, such as reactivity, which can be indicative of mRNA degradation.
+
 Network Architecture:
 
 Inputs: The initial data fed into the model, which can include features like temperature, humidity, time, and other environmental factors.
