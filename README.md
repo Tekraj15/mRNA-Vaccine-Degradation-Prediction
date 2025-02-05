@@ -1,4 +1,4 @@
-# COVID-19 mRNA Vaccine Degradation Prediction Using Multi-headed Attention Model
+# COVID-19 mRNA Vaccine Degradation Prediction Using Denoising Autoencoder and Multi-headed Attention Mechanism
 
 
 # Introduction
