@@ -1,4 +1,4 @@
-# COVID-19 mRNA Vaccine Degradation Prediction
+# COVID-19 mRNA Vaccine Degradation Prediction Using Multi-headed Attention Model
 
 
 # Introduction
